@@ -1,0 +1,9 @@
+name: Kit
+main: ItzKunz\Kit\Main
+author: ItzKunz
+api: 3.0.0
+version: 1.0
+
+commands:
+  kit:
+    description: "Get a kit by doing this command"
